@@ -96,8 +96,3 @@ make clean
 ```
 
 Cela supprime les objets, l'exécutable et `results.csv`.
-
-## Aide / Problèmes
-
-Si vous rencontrez des problèmes de compilation ou d'exécution, partagez l'erreur complète.
-Vérifiez que `gcc` est installé et que vous utilisez un système Linux/Unix compatible.
